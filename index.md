@@ -20,7 +20,7 @@ Add-messages Screenshot:
  Part 2
  1. path to the private key : ![Image](private.png) , ![Image](Privatepath.png)
  2. path to the public key: ![Image](public.png), ![Image](Publicpath.png)
-
+  3. terminal interaction where I log into ieng6: ![Image](nopassword.png)
  
 Part 3. 
 I didn't know we could do so much with terminal, and I didn't know that we could "login" to a school account or personal account on our own laptop. Furthermore, I think what fascinated me the most was the part where we focused on what different words in the URL address mean. I've always pondered what the lashes are for, or what each keyword means. Also, I think it was exciting that we explored why and how the URL is modified and what each command means. During the process, I encountered some issue with the server and I wasn't really familiar with javac and java commands, but after a few tries and getting helps from the TAs, now I fully understand the purpose of each command and how I am supposed to utilize it next time when I need to connect to a server and get a network website started.
